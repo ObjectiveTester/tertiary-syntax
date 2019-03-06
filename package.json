@@ -1,0 +1,15 @@
+{
+  "name": "tertiary-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "A syntax theme using tertiary colours, designed to be easy on the eye.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/ObjectiveTester/tertiary-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
